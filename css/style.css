@@ -54,12 +54,12 @@ body{
 .skip {
     position: absolute;
     top: -80px;
-  }
+  } 
 
 .skip a:focus {
     width: max-content;
     position: absolute;
-    top: 150px;
+    top: 190px;
     color: black;
     text-decoration-style: solid;
   }
